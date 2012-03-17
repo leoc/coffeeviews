@@ -1,13 +1,8 @@
 Coffeeviews
 ===========
 
-Introduction goes here.
+Coffeeviews is a simple Rails 2.3 plugin for using *.js.coffee files as Javascript-Views.
 
 
-Example
-=======
 
-Example goes here.
-
-
-Copyright (c) 2012 [name of plugin creator], released under the MIT license
+Copyright (c) 2012 Arthur Leonard Andersen, released under the MIT license
